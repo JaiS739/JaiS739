@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://the-awesome-jksingh00739-gmail-com-site-ce05f.netlify.app/](https://the-awesome-jksingh00739-gmail-com-site-ce05f.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@jksingh00739/sugar-cosmetics-851b92ca0953](https://medium.com/@jksingh00739/sugar-cosmetics-851b92ca0953)
+- 📝 I regularly write articles on [https://medium.com/](https://medium.com/@jksingh00739/sugar-cosmetics-851b92ca0953)
 
 - 💬 Ask me about **React, Redux, JavaScript, Nodejs, Expressjs**
 
