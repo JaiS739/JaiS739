@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jksingh00739@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mW9_YjID_0E-jI1XXZiKhgk4oq0Z-pDh/view](https://drive.google.com/file/d/1mW9_YjID_0E-jI1XXZiKhgk4oq0Z-pDh/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1--qNjveJdPpTGGwOs8sYLiQgr3tex7Kz/view](https://drive.google.com/file/d/1--qNjveJdPpTGGwOs8sYLiQgr3tex7Kz/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
