@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jksingh00739@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-Hzw5WAAkDAsg9zoNHxzOJv6HzbZgbOT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
