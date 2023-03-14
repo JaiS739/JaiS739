@@ -6,15 +6,15 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://jai-krishna-singh-portfolio.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [my portfolio](https://jai-krishna-singh-portfolio.netlify.app/) -->
 
-- 📝 I regularly write articles on [https://medium.com/@jksingh00739)
+<!-- - 📝 I regularly write articles on [https://medium.com/@jksingh00739) -->
 
 - 💬 Ask me about **React, Redux, JavaScript, Nodejs, Expressjs**
 
 - 📫 How to reach me **jksingh00739@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-Hzw5WAAkDAsg9zoNHxzOJv6HzbZgbOT/view?usp=sharing)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1-Hzw5WAAkDAsg9zoNHxzOJv6HzbZgbOT/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
