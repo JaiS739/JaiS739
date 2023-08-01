@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jai Krishna Singh</h1>
-<h3 align="center">A Full stack developer, specializing in JavaScript also learned other techs like React Redux, Nodejs, Express, MongoDb. Always like to be around techy things. A good problem solver and quick learner.</h3>
+<h3 align="center">A Full Stack Developer specializing in JavaScript, I have also gained expertise in other technologies such as React, Redux, Node.js, Express, and MongoDB. I always enjoy being surrounded by techy things. Furthermore, I pride myself on being a good problem solver and a quick learner.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jais739&label=Profile%20views&color=0e75b6&style=flat" alt="jais739" /> </p>
