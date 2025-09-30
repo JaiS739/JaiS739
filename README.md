@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jais739&label=Profile%20views&color=0e75b6&style=flat" alt="jais739" /> </p>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **Java Backend Development**
 
 <!-- - 👨‍💻 All of my projects are available at [my portfolio](https://jai-krishna-singh-portfolio.netlify.app/) -->
 
