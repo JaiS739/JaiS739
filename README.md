@@ -68,24 +68,8 @@ Building scalable backend systems, modern frontend applications, and continuousl
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jais739&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jais739&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=jais739&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jais739&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
 ---
