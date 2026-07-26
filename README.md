@@ -1,85 +1,107 @@
 <h1 align="center">Hi 👋, I'm Jai Krishna Singh</h1>
 
 <h3 align="center">
-Java Full Stack Developer with 3+ years of experience building scalable web applications using Java, Spring Boot, React, Next.js, and TypeScript. Passionate about writing clean, maintainable code, solving complex problems, and continuously learning modern technologies.
+Java Full Stack Developer | Spring Boot | React | Next.js | TypeScript
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jais739&label=Profile%20views&color=0e75b6&style=flat" alt="jais739" />
+<p align="center">
+Building scalable backend systems, modern frontend applications, and continuously learning new technologies.
 </p>
 
-- 🔭 I’m currently building **Java Full Stack Projects**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jais739&label=Profile%20Views&color=0e75b6&style=flat" alt="jais739" />
+</p>
 
-- 🌱 I’m currently learning **Microservices, Docker, Kubernetes & Apache Kafka**
+---
 
-- 💬 Ask me about **Java, Spring Boot, React, Next.js, TypeScript, Redux Toolkit, REST APIs**
+<img align="right" alt="Coding" width="380" src="https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 
-- 👨‍💻 Interested in **Backend Development, System Design, and Full Stack Engineering**
+## 👨‍💻 About Me
 
+- 💼 Java Full Stack Developer with **3.8+ years of experience**
+- 🔭 Currently building **Java Full Stack Projects**
+- 🌱 Learning **Microservices, Docker, Kubernetes & Apache Kafka**
+- 💬 Ask me about **Java, Spring Boot, React, Next.js, TypeScript, REST APIs & MySQL**
+- 🎯 Interested in **Backend Engineering, System Design & Cloud Technologies**
+- ⚡ I enjoy solving problems and building scalable applications.
 - 📫 Reach me at **jksingh00739@gmail.com**
 
-<!-- Portfolio -->
-<!-- - 🌐 Portfolio: https://your-portfolio-link.com -->
+---
 
-<!-- Resume -->
-<!-- - 📄 Resume: https://your-resume-link.com -->
-
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://twitter.com/jaikrishna00739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
-<a href="https://instagram.com/happyankush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://github.com/jais739" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 
-<a href="https://www.hackerrank.com/@jksingh00739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/jaikrishna00739" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+</a>
 
-<a href="https://leetcode.com/u/jai739/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@jksingh00739" target="_blank">
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" height="40"/>
+</a>
+
+<a href="https://leetcode.com/u/jai739/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
+</a>
 </p>
 
-## 🛠 Languages and Tools
+---
 
-<p align="left">
+## 🚀 Tech Stack
 
-<a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<p align="center">
 
-<a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/></a>
-
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-
-<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-
-<a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
-
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-
-<a href="https://redux-toolkit.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
-
-<a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,typescript,javascript,html,css,mysql,docker,git,github,postman,vscode,idea&perline=5"/>
 
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jais739&show_icons=true&locale=en&layout=compact" />
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jais739&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jais739&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jais739&show_icons=true&locale=en" />
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=jais739&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jais739" />
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jais739&theme=algolia&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 💡 Quote
+
+<p align="center">
+
+> **"First, solve the problem. Then, write the code." – John Johnson**
+
+</p>
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile ❤️
+
 </p>
