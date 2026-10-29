@@ -18,9 +18,9 @@ Building scalable backend systems, modern frontend applications, and continuousl
 
 ## 👨‍💻 About Me
 
-- 💼 Java Full Stack Developer with **3.8+ years of experience**
-- 🔭 Currently building **Java Full Stack Projects**
-- 🌱 Learning **Microservices, Docker, Kubernetes & Apache Kafka**
+- 💼 Java Full Stack Developer with **4+ years of experience**
+- 🔭 **Java Full Stack Projects**
+- 🌱 **Microservices, Docker, Kubernetes & Apache Kafka**
 - 💬 Ask me about **Java, Spring Boot, React, Next.js, TypeScript, REST APIs & MySQL**
 - 🎯 Interested in **Backend Engineering, System Design & Cloud Technologies**
 - ⚡ I enjoy solving problems and building scalable applications.
